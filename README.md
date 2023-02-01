@@ -19,7 +19,11 @@ Space Cream é um website de gelateria, um projeto desafio da rocketseat. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Space Cream" src="https://i.imgur.com/Hl6iilz.png" width="100%">
+  <img alt="projeto Space Cream desktop" src="https://i.imgur.com/Hl6iilz.png" width="100%">
+</p>
+</br>
+<p align="center">
+  <img alt="projeto Space Cream mobile" src="https://i.imgur.com/7x74Y2a.jpg" width="25%">
 </p>
 
 ## 🚀 Tecnologias
